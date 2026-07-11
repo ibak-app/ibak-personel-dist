@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "0.3.2",
-  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.3.2/ibak-personel.apk",
-  "notes": "OTA test sürümü — self-update doğrulaması",
-  "sha256": "3e4df028ba4f40ae168cb277ea788934969d8f76e204d30279e402113806408a"
+  "versionCode": 7,
+  "versionName": "0.3.3",
+  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.3.3/ibak-personel.apk",
+  "notes": "Status bar padding düzeltmesi",
+  "sha256": "b01a67ec9878bbd504b426ec521d7aa6159e4a06a66b2b815e3f346bdbbea79d"
 }

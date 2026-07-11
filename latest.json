@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.6.0/ibak-personel.apk",
-  "notes": "Per-staff auth (telefon+PIN); backend deploy olunca canlı",
-  "sha256": "42a2fe2db5d489a27037c23cab29e8fc13da30995615caf81e2f294a32ef88b3"
+  "versionCode": 11,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.7.0/ibak-personel.apk",
+  "notes": "Per-staff auth canlı (telefon+PIN→JWT). Gömülü paylaşımlı token yok.",
+  "sha256": "daa1649f3d1952bfc79082ab1d54f1040726ccf13e03c6000eddffb0c23c5bea"
 }

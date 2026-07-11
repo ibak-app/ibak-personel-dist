@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.3.3",
-  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.3.3/ibak-personel.apk",
-  "notes": "Status bar padding düzeltmesi",
-  "sha256": "b01a67ec9878bbd504b426ec521d7aa6159e4a06a66b2b815e3f346bdbbea79d"
+  "versionCode": 8,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.4.0/ibak-personel.apk",
+  "notes": "Şef masa atama + duyuru, sipariş notu, status bar padding",
+  "sha256": "034025b5b6deda805829a2731e08a7bd1872f8f3101f151a12828ecde07f1d4c"
 }

@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.4.0/ibak-personel.apk",
-  "notes": "Şef masa atama + duyuru, sipariş notu, status bar padding",
-  "sha256": "034025b5b6deda805829a2731e08a7bd1872f8f3101f151a12828ecde07f1d4c"
+  "versionCode": 9,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/ibak-app/ibak-personel-dist/releases/download/v0.5.0/ibak-personel.apk",
+  "notes": "Canlı F&B backend bağlantısı — gerçek sipariş akışı",
+  "sha256": "3acebbde392bb00cd545c95b28c9ffcc2b6696e79416e93a385bca541f2da151"
 }
